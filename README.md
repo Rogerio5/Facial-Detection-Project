@@ -108,6 +108,10 @@ To run the project on Colab:
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="left" alt="OpenCV" title="OpenCV" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"/>
   <img align="left" alt="Google Colab" title="Google Colab" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/>
+  <img align="left" alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right: 10px;" src="https://matplotlib.org/_static/images/logo2.svg"/>
+  <img align="left" alt="Keras-FaceNet" title="Keras-FaceNet" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4"/>
+  <img align="left" alt="MTCNN" title="MTCNN" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/ipazc/mtcnn/master/logo/mtcnn-logo.png"/>
+  <img align="left" alt="Scikit-learn" title="Scikit-learn" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 </p>
 
 <br clear="all"/>
