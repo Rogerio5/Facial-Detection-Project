@@ -151,5 +151,6 @@ This project is under the MIT license. For more details, see the `LICENSE` file.
 
 **PT:**  
 Este projeto é uma introdução prática ao reconhecimento facial personalizado, combinando MTCNN, Keras-FaceNet, SVM e OpenCV para manipulação e visualização. Ideal para quem deseja explorar visão computacional de forma acessível, sua estrutura modular permite expandir para múltiplas faces, detecção em vídeo e integração com redes neurais.
+
 **EN:**  
 This project is a practical introduction to custom facial recognition, combining MTCNN, Keras-FaceNet, SVM, and OpenCV for image manipulation and visualization. It is ideal for those who want to explore computer vision in an accessible way. Its modular structure makes it easy to expand for multiple faces, video detection, and integration with neural networks.
