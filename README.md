@@ -34,23 +34,38 @@
 ## 📖 Descrição / Description
 
 **PT:**  
-Este projeto demonstra como aplicar técnicas de **visão computacional** para detectar rostos humanos em imagens, utilizando o framework **OpenCV**. A aplicação permite:
+Este projeto demonstra como aplicar técnicas avançadas de visão computacional para realizar reconhecimento facial em imagens e webcam, utilizando o ambiente interativo do Google Colab. A aplicação permite:
 
-- Carregar imagens locais ou via upload no Colab  
-- Detectar rostos com o classificador Haar Cascade  
-- Exibir comparações lado a lado entre imagem original e imagem detectada  
-- Capturar imagens diretamente da webcam (opcional)  
-- Salvar imagens processadas com bounding boxes
+📁 Carregar imagens locais ou via upload no Colab
+
+🧠 Detectar rostos com o detector MTCNN
+
+🔍 Extrair características faciais com Keras-FaceNet
+
+🧪 Classificar rostos com SVM ou realizar verificação facial
+
+📸 Capturar imagens diretamente da webcam (opcional)
+
+🖼️ Exibir comparações lado a lado entre imagem original e imagem detectada
+
+💾 Salvar imagens processadas com bounding boxes e nomes identificados
 
 **EN:**  
-This project showcases how to apply **computer vision** techniques to detect human faces in images using **OpenCV**. It enables:
+This project demonstrates how to apply advanced computer vision techniques to perform facial recognition using images and webcam input, all within the interactive environment of Google Colab. The application allows you to:
 
-- Loading local images or uploading via Colab  
-- Detecting faces using Haar Cascade classifier  
-- Displaying side-by-side comparisons of original and detected images  
-- Capturing images from webcam (optional)  
-- Saving processed images with bounding boxes
+📁 Upload training and test images directly in Colab
 
+🧠 Detect faces using the MTCNN face detector
+
+🔍 Extract facial features with Keras-FaceNet
+
+🧪 Classify faces using SVM or perform facial verification
+
+📸 Capture images from the webcam (optional)
+
+🖼️ Display side-by-side comparisons of original and detected images
+
+💾 Save processed images with bounding boxes and identified names
 ---
 
 ## 🚧 Status / Status
