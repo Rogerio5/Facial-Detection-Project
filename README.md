@@ -4,7 +4,7 @@
 
 ## 🚀 Reconhecimento de rostos em imagens via Google Colab
 
-![Capa do Projeto - Detecção Facial](detecção-facial-capa.png)
+![Capa do Projeto - Detecção Facial](Exemplo-Rogerio.png)
 
 ---
 
@@ -66,6 +66,7 @@ This project demonstrates how to apply advanced computer vision techniques to pe
 🖼️ Display side-by-side comparisons of original and detected images
 
 💾 Save processed images with bounding boxes and identified names
+
 ---
 
 ## 🚧 Status / Status
