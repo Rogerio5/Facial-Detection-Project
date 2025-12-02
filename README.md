@@ -1,5 +1,3 @@
-# Facial-Detection-Project1
-
 # Facial-Detection-Project
 
 # 🧠 Projeto de Detecção Facial com WEB CAM
@@ -8,7 +6,7 @@
 
 ## 📌 Projeto de Detecção Facial
 Este projeto foi desenvolvido em Python utilizando Google Colab e Jupyter Notebook.  
-👉 [Acesse o notebook aqui](https://github.com/Rogerio5/Facial-Detecton-Project/blob/main/Facial-Detecto-Project.ipynb)
+👉 [Acesse o notebook aqui](https://colab.research.google.com/github/Rogerio5/repositorio/blob/main/Facial_Detecton_Project.ipynb)
 
 ![Capa do Projeto - Detecção Facial](Exemplo-Rogerio.png)
 
