@@ -134,10 +134,8 @@ To run the project on Colab:
   <img align="left" alt="Keras-FaceNet" title="Keras-FaceNet" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4"/>
   <img align="left" alt="Scikit-learn" title="Scikit-learn" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
   <img align="left" alt="TensorFlow" title="TensorFlow" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="30"/>
 
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40"/>
-
-/>
 
 </p>
 
