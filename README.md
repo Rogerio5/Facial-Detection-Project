@@ -6,7 +6,8 @@
 
 ## 📌 Projeto de Detecção Facial
 Este projeto foi desenvolvido em Python utilizando Google Colab e Jupyter Notebook.  
- [Abrir no Google Colab](https://colab.research.google.com/github/Rogerio5/repositorio/blob/main/principal/Facial_Detection.ipynb) 
+ [Abrir no Google Colab](https://colab.research.google.com/github/Rogerio5/Facial-Detection-Project1/blob/main/Projeto_de_Deteccao_Facial.ipynb
+) 
 
 
 ![Capa do Projeto - Detecção Facial](Exemplo-Rogerio.png)
