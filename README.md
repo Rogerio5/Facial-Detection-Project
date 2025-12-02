@@ -136,7 +136,7 @@ To run the project on Colab:
   <img align="left" alt="TensorFlow" title="TensorFlow" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>
 
   <img 
-  src="https://matplotlib.org/_static/images/logo2.svg" 
+  src="https://seeklogo.com/vector-logo/428048/matplotlib" 
   alt="Matplotlib" 
   title="Matplotlib" 
   width="30" 
