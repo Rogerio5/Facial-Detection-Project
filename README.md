@@ -4,7 +4,6 @@
 
 ## 🚀 Reconhecimento de rostos em imagens via Google Colab
 
-## 📌 Projeto de Detecção Facial
 Este projeto foi desenvolvido em Python utilizando Google Colab e Jupyter Notebook.  
  [Abrir no Google Colab](https://colab.research.google.com/github/Rogerio5/Facial-Detection-Project/blob/main/Facial_Detection.ipynb
 ) 
