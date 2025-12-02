@@ -146,7 +146,8 @@ To run the project on Colab:
 ## 👨‍💻 Desenvolvedor / Developer
 
 - [Rogerio](https://github.com/Rogerio5)   
-
+- [Ronaldo](https://github.com/Ronaldo94-GITHUB)
+  
 ---
 
 ## 📜 Licença / License
